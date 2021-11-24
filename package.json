@@ -1,0 +1,24 @@
+{
+  "name": "webserverexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asnahassan/Express.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/asnahassan/Express/issues"
+  },
+  "homepage": "https://github.com/asnahassan/Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
